@@ -1,2 +1,2 @@
 This is a sdample text file. Text is ok.
-new code changes update.
+q
