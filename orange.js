@@ -1,2 +1,2 @@
 This is a sdample text file. Text is ok.
-q
+This works in bitbucket too.
